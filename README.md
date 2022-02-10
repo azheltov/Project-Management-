@@ -82,3 +82,18 @@ Quality assurance:
 
 Quality Management Plan Template: 
         https://www.google.com/search?q=quality+management+plan+template&oq=quality+management+plan&aqs=chrome.1.69i57j0i512l9.7327j1j7&sourceid=chrome&ie=UTF-8
+        
+Triple constraints triangle:
+     Cost 
+Time      Scope
+
+
+A simple change control process.
+
+Managing Team Conflict:
+1. problem solving
+2. compomising
+3. withdrawing
+4. forcing
+5. smoothing
+
