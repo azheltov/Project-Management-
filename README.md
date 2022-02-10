@@ -74,7 +74,7 @@ Risk Response Plan
 Project Quality Management
 1. Quality
 2. Grade
-3. 
+
 What your clients need?                (example with rubber gloves from Dollorama and from Home Depot)
 
 Quality management planning:
