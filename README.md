@@ -38,3 +38,37 @@ RACI chart https://www.teamgantt.com/blog/raci-chart-definition-tips-and-example
 Analogous estimating - using extimate from a previous project Parametric extimating - use very similar, repeatable variables to estimate the project duration or cost Bottom-up estimating - divide the project into small manageable cativites or deliverables/creat an estime for each activitey or deliverrable/add up all the in...
 
 <<Session 2>>
+
+Effort vs Duration
+Gantt Chart View
+
+tool: https://www.teamgantt.com/
+
+Buffer: unplanned events, vacations, stat holidays, skill level
+
+Creating the budget:
+analogous , parametric, bottom-up estimating
+
+add up all the individula estimates to get your total...
+
+Project Risks: Opportunities + Threats
+1. Identify the project risks
+2. Analyze
+3. Plan Responses
+4. Monitor and Control Risks
+
+Opportunities:
+1. Exploit
+2. Share
+3. Enhance
+4. Accept
+
+Threats:
+1. Mitigation
+2. Avoidance
+3. Transference
+4. Acceptance
+
+Risk Response Plan
+
+
