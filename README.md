@@ -71,4 +71,14 @@ Threats:
 
 Risk Response Plan
 
+Project Quality Management
+1. Quality
+2. Grade
+3. 
+What your clients need?                (example with rubber gloves from Dollorama and from Home Depot)
 
+Quality management planning:
+Quality assurance:
+
+Quality Management Plan Template: 
+        https://www.google.com/search?q=quality+management+plan+template&oq=quality+management+plan&aqs=chrome.1.69i57j0i512l9.7327j1j7&sourceid=chrome&ie=UTF-8
