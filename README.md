@@ -97,3 +97,13 @@ Managing Team Conflict:
 4. forcing
 5. smoothing
 
+When is the right time to cancel a project?
+1. communicate
+2. document lessons
+3. release the project team
+
+The project work is complete:
+1. Cosure meeting
+2. Transition support to operational teams
+3. Communicate with the these final steps (lessons learnt)
+4. Archive project documents for future use 
