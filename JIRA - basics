@@ -1,0 +1,31 @@
+AGILE - sofware development methodology that is centred around helpin teams get more stuff done by self-organizing their work
+
+        Agile board
+to do -  in progress - done
+
+               agile
+       (two ways to organize)
+    scrum                kanban
+(has sprints)
+
+sprint
+(time to complete task)
+
+JIRA
+
+stories/epics concept:
+
+(user) Story
+
+as <> i want <> so that <>
+
+Epic (2 weeks+)
+
+issues/projects:
+Issues - container for fields and fields has date (dicription, summary, assigneee, due date)
+
+Projects
+where issues live
+
+---
+Your work
