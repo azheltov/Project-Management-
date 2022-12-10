@@ -152,7 +152,7 @@ test - Terms and process groups
 Section 10 - done 
 INTEGRATION MANAGEMENT
 
-develop PROJECT CHARTER
+@ develop PROJECT CHARTER
   imputs:
     business docs
     business case - (marked demand, customer request, organizational need, legal requirement)
@@ -166,7 +166,7 @@ develop PROJECT CHARTER
   project docs
   PM plan
   
-    project selection methods (usually not on the exam? - high level of understanding is enough)
+ @   project selection methods (usually not on the exam? - high level of understanding is enough)
    
    tools:
     experst judgment
@@ -180,6 +180,17 @@ develop PROJECT CHARTER
     risks
     
  Assumption log
+ 
+@ develop pm plan
+ 
+@ direct and manage project work
+
+@ manage project knowledge
+
+@ monitor and control
+
+@ Perform Integrated Change Control                                                                @@@ HOT TOPIC @@@
+ 
 -------------------------------------------------------------------------------------------
 Section 11 -  
    
