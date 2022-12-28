@@ -196,11 +196,11 @@ INTEGRATION MANAGEMENT
   model william bridges
  TEST - COMPLETED. 
 -------------------------------------------------------------------------------------------
-Section 11 - 
+Section 11 - COMPLETED
 prevent gold plating (doing extra work not in the scope)
 prevent scope creep (unauthorized work added)
 
-SCOPE MANAGMENT
+***SCOPE MANAGMENT
    
 input:
 project charter
@@ -222,11 +222,39 @@ prod.analysis
 
 ouputs:
 proj.doc.UPDATES
-proj.Scope Statment (scope creep?)
+proj.Scope Statment 
+                    (scope creep?)
 
 
 wbs - work breakdown structure
 
+proj.name-
+    control account -
+        wbs-
+        
+! wbs dictionary
+
                                            *** PHONE SYS UPDATE
-
-
+***validatig scope
+input:
+  scope baseline
+  proj.docs.
+  varified deliverables
+  work perfomance data
+tools:
+  inspection
+  decionmaking
+output:
+  accepted deliv.
+  change req.
+  work peformance information
+  proj.document updates
+  
+ ***control scope
+    !variance analysis
+    !trend analysis
+    
+ 
+-------------------------------------------------------------------------------------------
+Section 12 -
+SCHEDULE management
