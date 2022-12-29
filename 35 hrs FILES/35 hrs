@@ -316,6 +316,10 @@ SCHEDULE management
 tools:
   schedule network analysis
   (critical path, critical chain, what-if, resource optimization: resource leveling/smoothing)
+                                                            critical path - FLOAT (square diagram ES<EF<LS<LF), 
+                                                            forward path - ES
+                                                            backward path - LF 
+                                                            
   data analysis (monte carlo)
   leads, lags
   schedule compression
