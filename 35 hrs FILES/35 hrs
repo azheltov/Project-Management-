@@ -273,6 +273,38 @@ tools:
   
   output:
   project schedule (not in proj.management plan)
+    network diagrams
+    bar charts (activities in horisontal bars)
+    milestone chart
   schedule baseline (is in proj.menaagement plan)
+  schedule data
+  proj.calendars
+  change req.
+  updates 
   
+ + CONTROL SCH. (PROCESS)
+  inputs:
+    proj.man.plan
+    proj.docs
+    work performance data
+    org.process assets (OPA)
+  
+  tools:
+    PMIS
+    critical path
+    resourse optimization techniques
+    lead and lags
+    schedule compression (fast track or crash)
+    data analysis
+    earned value analysis
+    what-f scenarios
+    interation burndown chart (agile proj.)
+    
+  outputs:
+    work perf.info
+    forecast 
+    change req.
+    proj.man.plan updates
+    proj.docs updates
+    
   
