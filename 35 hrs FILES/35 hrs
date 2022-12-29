@@ -97,6 +97,7 @@ Data Analysis
    root couse - RCA, 
    Variance analysis, 
    trend analysis)
+      *trend analysis is to see whether the project is staying on or off schedule
 Data representstion (flowcharts, fishbone, histogram) & Decision Making (voting, multicriteria, autocratic)
 Interpersonal and Team Skills (80%)
   active listening
@@ -305,6 +306,7 @@ and controlled throughout the project, as well as the level of accuracy, reporti
                       *The precedence diagramming method is used to construct a schedule
                       in which the activities are represented graphically 
                       using nodes and are linked based on their relationship.
+                      *The precedence diagramming method is used to construct the project schedule network diagram showing the dependencies between activities. 
         relationships: finish to strat and etc.
       dependacy determination and integration 
         hard logic
@@ -340,6 +342,9 @@ and controlled throughout the project, as well as the level of accuracy, reporti
       analogous extimation (top-donw estimation)
           *Analogous estimating is based on historical information, generally from previous projects that were very similar. 
           This technique would lead to a quick estimate, but may not be very accurate. 
+          
+          
+          *The basis of estimates would generally indicate the range of possible estimates.
 
 + DEVLOP SCH.
 tools:
@@ -348,12 +353,17 @@ tools:
                                                             critical path - FLOAT (square diagram ES<EF<LS<LF), 
                                                             forward path - ES
                                                             backward path - LF 
+                                                            The critical path method is used to estimate the minimum project duration 
+                                                            and determine the amount of schedule flexibility.
                                                             
   data analysis (monte carlo)
   leads, lags
   schedule compression
     crashing (cost)
-    fast tracking (risk)
+    fast tracking (higher risk)
+          *“Fast tracking” the schedule is a compression technique in which activities are generally done in parallel. 
+          This technique generally increases the risk on the project but may not increase costs.
+          “Crashing” is adding more resources to the project to finish it faster, and will increase costs.
   PMIS (ms project)
   Agile release planning
   
@@ -365,6 +375,7 @@ tools:
   schedule baseline (is in proj.menaagement plan)
   schedule data
   proj.calendars
+        *A project calendar identifies the working days and shifts that the project will follow.
   change req.
   updates 
   
@@ -392,6 +403,7 @@ tools:
     schedule compression (fast track or crash)
     data analysis
     earned value analysis
+            *“Earned value analysis” is a series of formulas that will tell you the status update on the project. 
     what-f scenarios
     interation burndown chart (agile proj.)
     
