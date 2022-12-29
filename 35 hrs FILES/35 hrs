@@ -227,6 +227,10 @@ proj.Scope Statment
 
 
 wbs - work breakdown structure
+      The activity list, WBS, and WBS dictionary can be developed either sequentially or concurrently. 
+      The WBS is part of the scope baseline, 
+      while the activity list is not part of the schedule baseline, only considered a project document.
+
 
 proj.name-
     control account -
@@ -258,6 +262,8 @@ output:
 -------------------------------------------------------------------------------------------
 Section 12 -
 SCHEDULE management
+The schedule management plan will describe how the schedule will be planned, developed, managed, executed, 
+and controlled throughout the project, as well as the level of accuracy, reporting formats, and schedule model.
 (6 - processes)
   Plan schedule management
   Define Activities
@@ -276,12 +282,18 @@ SCHEDULE management
     tools:
       expert
       decomposition
+              *Decomposition is done to break down the deliverables and work packages into activities.
+              *Decomposition is best done when the team members are involved, since they are considered subject matter experts and 
+              will generally lead to more accurate results. 
+              *It should be done throughout the project as more work is done and understood.
       rolling wave planning (how detailed is a work package?)
+              Rolling wave planning is a planning technique in which future work is decomposed as the work gets closer.
       meetings
     outputs:
       activitiys list
       activity attributes
       milestones list
+              *Milestones have zero duration because they represent a significant point or event on the project. 
       change req.
       proj.manag. plan updates
         sch.baseline
@@ -290,6 +302,9 @@ SCHEDULE management
 + SEQUENCE ACTIVITIES
     tools:
       precedence diagramming method (PDM)
+                      *The precedence diagramming method is used to construct a schedule
+                      in which the activities are represented graphically 
+                      using nodes and are linked based on their relationship.
         relationships: finish to strat and etc.
       dependacy determination and integration 
         hard logic
@@ -345,6 +360,15 @@ tools:
     proj.docs
     work performance data
     org.process assets (OPA)
+                          Some examples of OPAs are:
+                              Previous Project Plans.
+                              Software Tools.
+                              Database of Project Information.
+                              Lessons Learned.
+                              Knowledge Base.
+                              Organizational policies and procedures.
+                              Historical Information.
+                              Project Templates.
   
   tools:
     PMIS
