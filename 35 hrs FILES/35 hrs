@@ -258,6 +258,59 @@ output:
 -------------------------------------------------------------------------------------------
 Section 12 -
 SCHEDULE management
+(6 - processes)
+  Plan schedule management
+  Define Activities
+  Sequence Activities
+  Extimate Activiety Duaration
+  Develop Schedule
+  Control Schedulet 
+  
++ SCH.MAN.PLAN
+    (accuracy depends on historical context)
++ DEFINE ACT.
+    imputs:
+      ...
+      enterprise factors
+      org.proc.assets
+    tools:
+      expert
+      decomposition
+      rolling wave planning (how detailed is a work package?)
+      meetings
+    outputs:
+      activitiys list
+      activity attributes
+      milestones list
+      change req.
+      proj.manag. plan updates
+        sch.baseline
+        cost baseline
+        
++ SEQUENCE ACTIVITIES
+    tools:
+      precedence diagramming method (PDM)
+        relationships: finish to strat and etc.
+      dependacy determination and integration 
+        hard logic
+        soft logic (no physical limitations)
+        
+        external 
+        internal
+      leads and lags
+      PMIS
+    outputs:
+      parametric (statistics and history)
+      three point estimaate (optimisti, pessimistic, most likely)
+      bottom-up
+      data analyss
+        reserve analysis (risk factors took into consideration)
+      decision making
+ + ESTIMATE ACT. DURATIONS
+    tools:
+      expers
+      meetings
+      analogous extimation (top-donw estimation)
 
 + DEVLOP SCH.
 tools:
