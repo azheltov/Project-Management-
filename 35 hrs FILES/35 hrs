@@ -312,10 +312,22 @@ and controlled throughout the project, as well as the level of accuracy, reporti
         
         external 
         internal
+          *External dependency is when the work is outside of the project team’s control, such as getting a permit. 
+          Internal dependency is usually within the project team’s control. 
+        
+        mandatory
+        discretionary
+          *Mandatory dependencies are dependencies in which one activity must be done in order for another activity to start. 
+          *Discretionary dependencies are when the sequence of activities does not necessarily have to be done in that particular order, 
+          but is usually at the discretion of the person doing the work. 
+        
       leads and lags
+          *A lag is a delay between activities. 
+          *A lead is an overlap of work on a project.
       PMIS
     outputs:
       parametric (statistics and history)
+            *Parametric estimating is usually a mathematical model based on historical information.
       three point estimaate (optimisti, pessimistic, most likely)
       bottom-up
       data analyss
@@ -326,6 +338,8 @@ and controlled throughout the project, as well as the level of accuracy, reporti
       expers
       meetings
       analogous extimation (top-donw estimation)
+          *Analogous estimating is based on historical information, generally from previous projects that were very similar. 
+          This technique would lead to a quick estimate, but may not be very accurate. 
 
 + DEVLOP SCH.
 tools:
