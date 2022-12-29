@@ -258,3 +258,21 @@ output:
 -------------------------------------------------------------------------------------------
 Section 12 -
 SCHEDULE management
+
++ DEVLOP SCH.
+tools:
+  schedule network analysis
+  (critical path, critical chain, what-if, resource optimization: resource leveling/smoothing)
+  data analysis (monte carlo)
+  leads, lags
+  schedule compression
+    crashing (cost)
+    fast tracking (risk)
+  PMIS (ms project)
+  Agile release planning
+  
+  output:
+  project schedule (not in proj.management plan)
+  schedule baseline (is in proj.menaagement plan)
+  
+  
