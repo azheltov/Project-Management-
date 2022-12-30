@@ -472,4 +472,12 @@ tools:
           proj.funding req.
           proj.document updates
         
+ +CONTROL COST
+    tools: ...
+           to-complete performance index (TCPI)                             *FORMULA
+           
+    outputs:
+          EAC (esti. at completion)
   
+-------------------------------------------------------------------------------------------
+ Section 14 - 
