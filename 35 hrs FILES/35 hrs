@@ -261,7 +261,7 @@ output:
     
  
 -------------------------------------------------------------------------------------------
-Section 12 -
+Section 12 - COMPLETED
 SCHEDULE management
 The schedule management plan will describe how the schedule will be planned, developed, managed, executed, 
 and controlled throughout the project, as well as the level of accuracy, reporting formats, and schedule model.
@@ -414,4 +414,61 @@ tools:
     proj.man.plan updates
     proj.docs updates
     
+ -------------------------------------------------------------------------------------------
+ Section 13 - 
+ PROJ. COST MANAGEMENT
+ (4) processes:
+ Plan Cost Manag.
+ Estimate Cost
+ Determine Budget
+ Control Costs
+ 
+ value engineering (fiexed, variable, 
+                    direct, inderect,
+                    sunk
+ 
+ +PLAN COST MANAG.
+  output: cost managment plan (doc. on how to make other doc-s.) 
+        how costs will be planned, stuct., control
+        units of measure
+        level of accuracty
+        reporting formats
+        control thresholds
++ESTIMATE COST
+ (resoursces! currency!)
+ types: definitive esti.
+        budget esti.
+        rough order.
+        
+   tools: ...
+          pert (three point esti.)
+          data analysis:
+            reserve analysis (money set aside for risk)
+            cost of quality
+              failure
+                intrnal
+                external
+                leds to rework
+              success
+                training, inspections, proper equip.
+                
+   output:
+    cost estimates (cost of every activity)
+    basis of estimates
+      range
+      confidence level of esti.
+      how esti. were developed
+    proj.doc.updates
+    
+ +DETERMINE BUDGET (establishing cost baseline)
+ 
+    tools: ...
+          cost aggregation ("rolled back up")
+          runding limit reconciliations
+          financing (external source)
+    output:
+          cost baseline (s-curve graph)
+          proj.funding req.
+          proj.document updates
+        
   
