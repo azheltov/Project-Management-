@@ -467,7 +467,8 @@ tools:
           runding limit reconciliations
           financing (external source)
     output:
-          cost baseline (s-curve graph)
+          cost baseline (s-curve graph) (cost + contingency reserves)
+                  proj.budget (cost baseline + management reserves)
           proj.funding req.
           proj.document updates
         
