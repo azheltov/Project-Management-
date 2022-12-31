@@ -487,9 +487,11 @@ tools:
  control quality         (monitoring and control)
  
  quality vs grade
+ * A low-grade product will not have as much functionality as a high-grade product.
  
  Methods:
  TQM - total quality management
+      *Total quality management (TQM) is when everyone in the company is responsible for quality in the underlying process of how a product is made.
  Kaizen (theory) - continuous improvement
  ISO 9000
  Just in Time Inventory
@@ -503,13 +505,23 @@ tools:
  Mutual Exclusivity
  Tolerances
  Prevention vs. Inspection
+ *Quality is about prevention. The more a defect is prevented, the fewer inspections will be needed. 
+ For example, hiring a well-trained programmer would require fewer code inspections.
+ *It is always more expensive to let the customers find defects. This can lead to warranty issues, recalls, or loss of reputation.
  
  +PLAN QUAL. MANAGEMENT
+ 
+ *The requirements documentation includes the project and the product quality requirements. 
+ The requirements management plan will document how to manage the project requirements, 
+ and the traceability matrix will show the origin of the requirements .
+ 
   tools:
         expert
         data gathering
           barinstorming
           benchmarking
+                        *Benchmarking is a tool used to compare the standards of comparable projects or products. 
+                        This can include meeting certain performances that are industry specific.
           interviews
         data analysis
           Cost Benefit Analysis
@@ -561,6 +573,22 @@ tools:
                 change requests
                 PM plan updates
                 proj.docs. updates
+                
+                
+  +CONTROL QUALITY
+  
+          tools:
+                ...
+                data representation
+                  control chart (rule of seven - below or above avarage line - INSPECT THE PROCESS)
+          outputs:
+                  quality control measurments
+                  verified deliverables
+                  work perfomance info
+                  change requests
+                  proj.management plan updates
+                  proj.document updates
+                
                
             
  
