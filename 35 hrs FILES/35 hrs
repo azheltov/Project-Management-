@@ -488,6 +488,85 @@ tools:
  
  quality vs grade
  
+ Methods:
+ TQM - total quality management
+ Kaizen (theory) - continuous improvement
+ ISO 9000
+ Just in Time Inventory
+ The Deming Cycle (plan, do check, act)
+ Six Sigma
+ 
+ Quality terms:
+ Attribute and Variable sampling
+    meets the req. or not
+    scale
+ Mutual Exclusivity
+ Tolerances
+ Prevention vs. Inspection
+ 
+ +PLAN QUAL. MANAGEMENT
+  tools:
+        expert
+        data gathering
+          barinstorming
+          benchmarking
+          interviews
+        data analysis
+          Cost Benefit Analysis
+          Cost of Quality (COQ)
+          
+        data representation:
+          logical data model
+          matrix diagram
+          mind mapping
+          flowcharts
+          
+     outputs:
+            quality management plan
+            aulity metrics
+            
++MANAGE QUALITY
+      inputs: 
+            proj.management plan
+            proj.documents
+              qa contol measurments
+              risk report
+              lesson learned regiter
+            org. process assets
+       tools:
+             data gathering
+              checklist
+             data analysis
+              alternatives
+              doc
+              process
+              root
+             decision making
+              multicriteria decision analysis
+             
+             data representation:
+                affinity diagrams
+                matrix diagram
+                cause and effect diagram
+                flowchart
+                histogram (barchart) - Pareto (80/20 rule)
+                scatter
+              audits
+              design x
+              problem solving
+              quality improvment methods
+         outputs:
+                quality reports
+                test and evaluatin docs
+                change requests
+                PM plan updates
+                proj.docs. updates
+               
+            
+ 
+ 
+ 
+ 
  
  
  
