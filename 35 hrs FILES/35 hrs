@@ -589,12 +589,51 @@ tools:
                   proj.management plan updates
                   proj.document updates
                 
-               
-            
+*The cost of quality includes the cost of conformance, which usually includes prevention costs, such as training, equipment, appraisal costs, testing, and inspections. 
+*The nonconformance cost includes reworking, scrapping, and the loss of business. All other choices are made-up terms.
+
+ -------------------------------------------------------------------------------------------          
+ Section 15 - PROJ. RESOURCE MANAGEMENT
+ (6) processes
+ plan resource managment
+ estimate activity resouces
+ acquire resources
+ develpment team
+ manage team
+ control resources
  
  
  
  
- 
- 
- 
++PLAN RESOURCE MANAGEMENT
+    tools:
+          expert
+          organizational theory                                              ORG THEORY!
+                                how company manages resources
+          meetings
+          data representation:
+              organization chart and positions descriptios
+              3 types:
+                      hierarchical
+                      matrix-based chart (resp.assign.matrix, (RMM), RACI chart - responsible, accountable, consulted, infomed (!!!)
+                      text-oriented format
+    outputs:
+          resource management plan
+          team charter (document with the ground rules)
+          
++ESTI.ACTIVITY RESOUCES
+     outputs:
+              resuce req.
+              basis of esti.
+              resource breakdown structure
+              basis of esti.
+              proj.doc.updates:
+                activity attributes
+                assumption log
+                lessons learned register
+                
+  +ACQUIRE RESOURCES
+  
+                
+    
+          
