@@ -732,13 +732,24 @@ tools:
 
 +CONTROL RESOURCES
   -------------------------------------------------------------------------------------------   
- Section 16 - COMPLETED
- COMMUNICATION MANAGEMENT    
+ Section 16 - COMPLETED 9      (!)
+ COMMUNICATION MANAGEMENT
+              *Project communications management is about preventing misunderstandings and miscommunications. 
+              This is done through the careful selection of methods and the messages that are being sent by the project manager.
  (3)
  +PLAN COMMUNICATION MAN.
  +MANAGE COMMUNICATION
  +MONITOR COMMUNICATIONS
  
+
+ *Push communication is when information is sent directly to the recipient.
+ *Pull communication is when the sender acquires the information at his or her own time using things such as a web portal.
+ *Interactive communication is multidirectional exchange between the sender and receiver.
+ *Noise generally interferes with the receiver’s ability to understand the message. Noise generally does not keep the sender from sending the message.
+ *Facilitation is building consensus and overcoming obstacles. This will lead to better group dynamics and maintaining interest among a group of people.
+ *Active listening generally involves acknowledging, clarifying and confirming information that is given.
+ *Project reporting is a tool that is used to manage communication to collect and distribute project information. All other choices are not valid tools.
+ *Networking is a part of interpersonal and team skills in which you interact with others to exchange information and develop contacts.
  
   +PLAN COMMUNICATION MAN.
          tools:
@@ -768,7 +779,12 @@ tools:
               data representation
               meetings
               
-   +MANAGE COMMUNICATION           
+  *  If a project manager determines that the communication management plan is inadequate for the project, 
+  the next step is to create a change request to change the plan to better match the communication needs of the project.
+  
+   +MANAGE COMMUNICATION
+                                *During the process of manage communications, the project manager will circulate the work performance report as specified in the communication management plan. 
+                                Work performance reports are sometimes known as status reports or progress reports.
        tools:
             ...
             Communication skills
@@ -782,8 +798,21 @@ tools:
                   minutes
           Networking
           
+          
+          
   +MONITOR COMMUNICATIONS
   Were the standards followed?
+  
+  
+  The project manager is working on a multinational project and has met with the company’s senior management 
+  during a private meeting to discuss the project’s performance. 
+  They have indicated that they are very happy with the progress and would like 
+  the meetings to be shorter next time. What process best describes this scenario?   
+  
+  ANSWER: manage communications
+  
+  Manage communications is the process to ensure the timely and appropriate collection, creation, management, and disposition of project information. 
+  The project manager is currently updating the stakeholders on the progress of the project.
   -------------------------------------------------------------------------------------------    
   Section 17 -  
                   
