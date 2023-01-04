@@ -415,7 +415,7 @@ tools:
     proj.docs updates
     
  -------------------------------------------------------------------------------------------
- Section 13 - 
+ Section 13 - COMPLETED
  PROJ. COST MANAGEMENT
  (4) processes:
  Plan Cost Manag.
@@ -480,7 +480,8 @@ tools:
           EAC (esti. at completion)
   
 -------------------------------------------------------------------------------------------
- Section 14 - QUALITY MANAGEMENT
+ Section 14 - COMPLETED
+ QUALITY MANAGEMENT
  (3)
  plan quality management (planning level)
  manage quality          (executing level)
@@ -593,7 +594,8 @@ tools:
 *The nonconformance cost includes reworking, scrapping, and the loss of business. All other choices are made-up terms.
 
  -------------------------------------------------------------------------------------------          
- Section 15 - PROJ. RESOURCE MANAGEMENT
+ Section 15 - COMPLETED 
+ PROJ. RESOURCE MANAGEMENT
  (6) processes
  plan resource managment
  estimate activity resouces
@@ -730,11 +732,61 @@ tools:
 
 +CONTROL RESOURCES
   -------------------------------------------------------------------------------------------   
-    
+ Section 16 - COMPLETED
+ COMMUNICATION MANAGEMENT    
+ (3)
+ +PLAN COMMUNICATION MAN.
+ +MANAGE COMMUNICATION
+ +MONITOR COMMUNICATIONS
+ 
+ 
+  +PLAN COMMUNICATION MAN.
+         tools:
+              expert
+              communic. req. analysis
+                analyzing needs
+                lack of comm. lead to failure
+                commun. channels
+                        Channels = n(n-1)2
+                        4(4-1)/2=x
+                        6=x
                 
-                
+              commun. tech.
+              commun. models
+                sender
+                reciever
+                encoder
+                decoder
+                paralingual
+                nonverbal
+                communcation blocker
+              commun. methods
+              interpersonal and team skills
+                coomun.styles ass.
+                plitical awar.
+                cutural awar.
+              data representation
+              meetings
               
-                
+   +MANAGE COMMUNICATION           
+       tools:
+            ...
+            Communication skills
+                  com. competence
+                  feedback
+                  nonberbal
+                  presentations
+           Meetings management
+                  agendas
+                  stay on topic
+                  minutes
+          Networking
+          
+  +MONITOR COMMUNICATIONS
+  Were the standards followed?
+  -------------------------------------------------------------------------------------------    
+  Section 17 -  
+                  
                
               
                 
