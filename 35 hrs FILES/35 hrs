@@ -897,6 +897,18 @@ tools:
     CODUCT PROCUREMENTS
     CONTROL PROCUREMENTS
     
+      Agreements (contracts)
+        Fixed-Priced (lump sum)
+          firm fixed price (ffp)
+          fixed price incentive fee(fpif)
+          fixed price exonomic price adjustment (fp-epa)
+        Cost-reimbursable
+          cost plus fixed fee (cpff)
+          cost plus incentive fee (cpif)
+          cost plus award fee (cpaf)
+        Time and Material
+          
+    
     +PLAN PROCUREMENT MANAGEMENT
     +CODUCT PROCUREMENTS
     +CONTROL PROCUREMENTS
