@@ -814,7 +814,7 @@ tools:
   Manage communications is the process to ensure the timely and appropriate collection, creation, management, and disposition of project information. 
   The project manager is currently updating the stakeholders on the progress of the project.
   -------------------------------------------------------------------------------------------    
-  Section 17 -  
+  Section 17 - COMPLETED
   RISK MANAGEMENT
   (7)
   PLAN RISK MANAG.
@@ -858,11 +858,45 @@ tools:
               influence diagrams
               decision tree analysis - EMV (expected monitary value)
               
-+PLAN RISKS RESPONSE      
-+IMPLEMENTE RISK REPONSES
-+MONITOR RISKS
-        
-  
-                
-    
++PLAN RISKS RESPONSE 
+  tools:
+      expert
+      data gather.
+      interpersolnal and tema skills
+        facilitation
+      strategies for negative risk or threats
+        escalate
+        avoid
+        transfer
+        mitigate
+        accept
+     strategies for opportunities (positive risk)
+        escalate
+        exploit
+        share
+        enhance
+        accept
+      strategies
+        avoid
+        exploit
+        tranfer/share
+        mitigate/enhance
+        accept
+      contigent resposponce trategies
+      data analisis
+      decision making
           
++IMPLEMENTE RISK REPONSES
+
++MONITOR RISKS
+  -------------------------------------------------------------------------------------------          
+    Section 18 - COMPLETED               
+    Procuremtn Management
+    (3)
+    PLAN PROCUREMENT MANAGEMENT
+    CODUCT PROCUREMENTS
+    CONTROL PROCUREMENTS
+    
+    +PLAN PROCUREMENT MANAGEMENT
+    +CODUCT PROCUREMENTS
+    +CONTROL PROCUREMENTS
