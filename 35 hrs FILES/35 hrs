@@ -816,16 +816,51 @@ tools:
   -------------------------------------------------------------------------------------------    
   Section 17 -  
   RISK MANAGEMENT
-  (
+  (7)
+  PLAN RISK MANAG.
+  INDENTIFY RISKS
+  PERFORM QULITATIVE RUSK ANALYSIS
+  PERFORM QUANTITATIVE RISK ANALYSIS
+  PLAN RISKS RESPONSE
+  IMPLEMENTE RISK REPONSES
+  MONITOR RISKS
+  
   individual proj. risk
   overall proj. risk
   
-              
+  known-knows, (sick empl.)
+  known-unknowns, (out of money)
+  unknown-unknowns totally unkonwn)
+  
+  even based
+  non-even risk
+    variability risk
+    ambiguity risk
+  proj.resilience
+  integrated risk management
+  
+  +PLAN RISK MANAG.
+        outputs: ...
+                (RBS) risk breakdown structure
                 
+  +INDENTIFY RISKS            
+         outputs:       
+                ...
+                risk register
               
++PERFORM QULITATIVE RUSK ANALYSIS
++PERFORM QUANTITATIVE RISK ANALYSIS 
+    tools: ...
+          representation of uncertainty
+          data analisys
+              sensitivity analysis
+              (tornado chart)
+              influence diagrams
+              decision tree analysis - EMV (expected monitary value)
               
-        
- 
++PLAN RISKS RESPONSE      
++IMPLEMENTE RISK REPONSES
++MONITOR RISKS
         
   
                 
