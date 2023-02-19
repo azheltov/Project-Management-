@@ -13,9 +13,45 @@ Benefits:
     
     
   4 values: 
-  
+    individuals & interactions     over processes and tools
+    working software               over comprehensive documentation                  (barely sufficient)
+    customer collaboration         over contract negotiation
+    responding to change           over following a plan
   
   12 principles:
+    1. stisfy customer through early and continuous deliver of val. soft
+    2. welcome changing requirements (change = competitive advantage)
+    3. deliver software frequently
+    4. business people and developers must work together
+    5. build projects around motivated individuals
+    6. the most efficient and effective method - face-to-face conversation
+    7. working software = is the primary measure of progress
+    8. Agile procsses promote sustainable development (constant pace)
+    9. Continuous attention to technical excellence, design 
+    10. Simplicity
+    11. The best architectures, requirements and design emerge from self-organzing teams
+    12. At regalar intervals, the team reflects on hot to become more effective then tunes and adjusts its behaviour accordingly
+    
+    
+  12 Agile Methodologies
+  Scrum
+  Extreme Programming (XP)
+  Kanban Development
+  Lean Software Development
+  
+  Terms
+    product owner
+    agile proj. manager/scrum master
+    product backlog
+    sprint planning meeting
+    sprint backlog
+    sprint 
+    daily stand up meeting
+    spring review
+    retrospective
+    partial completed product
+    release
+    
     
     
  
