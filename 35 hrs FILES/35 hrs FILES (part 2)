@@ -69,5 +69,128 @@ Benefits:
           
          Product Backlog
         
- 
+ Sprint increment
+Sprint backlog
+
+XP 
+  simplicity
+  communication
+  feedback
+  courage
+  respect
+
+xp roles: 
+coach
+tester
+programmer
+customers
+
+xp games:
+release planning
+iteration planning
+
+xp practices:
+small releases
+customer test
+collective code ownership
+code standard
+sustainable pace
+metaphor (dialog of 
+continuous integration
+test-driven development (TDD)
+pair programming
+simple design
+refracturing (remove redundancies)
+
+LEAN development (Toyota)
+visual
+identify customer's values
+building learning continuous improvement
+
+1.eliminate waste
+2.empower the team
+3.deliver fast
+4.optimize the whole
+5.build quality in
+6.defer decisions
+7.amplify learning
+
+7 wastes of lean
+1.partialy done work
+2.extra process
+3.extra features
+4.task switching
+5.waiting
+6.motion
+7.defects
+
+Kanban "signboard"
+columns
+items, in progress(max 6), testing(max 4), done
+
+pull system
+push system is not good
+
+5 principles:
+visualize the workflow
+limit WIP
+manage flow
+make process policies explicit
+improve collaboration
+
+Little's Law
+queue of the work in progress
+
+Other agile methods:
+feature-driven dev
+dynamic sys dev
+crystal
+
+(DOI) Declaration of InterDependence
+increase return on investments
+deliver reliable results
+expect uncertainty
+unleash creativity and innovation
+boost performance
+improve effectiveness and reliability
+
+Agile mindset
+
+(not on the exam)
+ROI return on investment
+IRR internal rate of return
+NPV present value/net present value
+
+KPIs
+rate of progress
+remaining work
+likely completion date
+likely cost remaining
+
+(not on the exam)
+Traditional Risk Management Process:
+1 - 7
+
+Value Prioritization:
+Simple Scheme (priority 1, 2, 3 )
+MoSCoW prioritization (Must have, Should, Could, Would like to have)
+100-point method (
+Dot Voting or Multi-voting
+Kano Analysis (customers satisfaction: satisfaction - x, functionality - y)
+Requirements Prioritization Model
+
+MVP - minimal viable product
+
+Limit WIP (work in progress)
+
+Cumulative Flow Diagrams (CFD's)
+-bottleneck
+
+"Money for nothing and change for free"
+
+Graduated Fixed Price Contract
+Fixed Price Work Packages
+
+"Gulf of Evaluation"
+
   
