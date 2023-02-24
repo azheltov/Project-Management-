@@ -198,6 +198,19 @@ Fixed Price Work Packages
 
 AGILE STAKEHOLDER MANAGEMENT
 
+            ! The first step in managing stakeholders is to identify them.
+            It’s only then will the project manager be able to meet with them 
+            and understand their communication requirements.
+            ! Concerns about agile often include the project team being resistant to agile methods.
+            
+            Stakeholder engagement is one of the key success to an agile project. 
+            What can the agile project manager do to keep them engaged throughout the project?
+            * Short iterations and releases with the most valuable features will keep stakeholders consistently 
+            involved in the project by having them in the Sprint review meeting and the release planning.
+            
+            What can the agile project manager use in the agile charter as a brief way to describe the goals of the project?
+            * The project tweet will describe the project goal in 140 characters or less.
+
   brainstorming:
     quiet writing
     round-robin
@@ -214,5 +227,22 @@ AGILE STAKEHOLDER MANAGEMENT
     active listening
     facilitation conflict resolution
     
+    Tuckman's 5 stages
+      1.forming
+      2.storming
+      3.norming
+      4.performing
+      5.adjourning
+      
+    Co-Location
+      osmotic communication
+      tacit
+      cave
+      low-tech
+      
+    Team Performance
+      burnup
+      burndown
+      velocity charts
 
 AGILE PANNING, CONFLICT RESOLUTION, CONTINOUS IMPROVMENT
