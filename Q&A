@@ -14,3 +14,99 @@ What document can the project manager use to determine who is available to work 
 
 resource calendar?
 
+While working on a project, the sponsor makes it clear that he does not want any of the team members to be overworked. 
+This means that no team member is allowed to work overtime.
+The sponsor is okay with the project being delayed due to this. 
+What technique can the project manager best implement to ensure that no team member is overworked? 
+
+(resource distribution)
+
+*RESOURCE LEVELING - is a technique used when resources are limited or over-allocated. 
+Resource leveling ensures that no resource is assigned to more than one activity at a time, ensuring that no resource is overworked.
+RESOURCE SMOOTHING may accomplish the same task, but it only works if there is slack available on the activities. 
+FREE FLOAT is the amount of time you can delay an activity without delaying the next activity. 
+LAG is the amount of time you need to delay an activity before the next activity starts.
+--
+
+
+While working on a network upgrade project, a team member installed the network connection and is now configuring the router 
+in order to work with the network connection. 
+The network connection must be done before the router can be configured. This is an example of what kind of dependency?  
+
+(dependencies)
+
+*MANDATORY dependency is when activities must be done in a certain order. For example, you must complete A then complete B. 
+INTERNAL dependencies are things that are under the control of the project team, 
+and EXTERNAL dependencies are things that are outside the control of the project team, such as getting a permit. 
+DISCRETIONARY dependency is when two activities can be done in any order and they’re not dependent upon each other.
+
+===
+
+The project team is having a very difficult time deciding what method they should use when programming the new functions in the application. 
+They can choose between four different methods, and the team is evenly split regarding which method to choose. The project manager has decided 
+that he will choose the method for them and will take the responsibility in case it is not the best way to program functions. 
+What best describes this technique?   
+
+*In AUTOCRATIC decision making, an individual makes the decision for the team and takes responsibility for the decision. 
+VOTING is when the team votes on a potential decision, 
+and MULTI-criteria decision is when they use a different criteria are used to evaluate a decision. 
+Leadership refers to skills for managing the team.
+
+
+===
+
+The project manager is currently reviewing all of the meetings that took place over the past few weeks to ensure that it was done 
+according to the communication management plan. 
+What process is the project manager currently conducting?   
+
+===
+
+The project manager is currently reviewing all of the meetings that took place over the past few weeks to ensure that it was done according to 
+the communication management plan. What process is the project manager currently conducting?  
+
+*MONITOR Communications is where the project manager analyzes the project communications with the project management plan to ensure the communications 
+are done according to the plan. 
+PLAN communication management is done to create the communication management plan. 
+MANAGE Communications is where a project manager actually communicates with the stakeholders according to the plan. 
+Conduct Communications is not an actual process.
+
+===
+While working on a tablet redesign project for large technology company, the project manager received a change request from a key stakeholder. 
+The change request would change the position of the power button from the top to the side of the tablet. After an assessment of the change, 
+the change control board declined the change due to concerns about redesigning the motherboard. What should the project manager do next?   
+
+Explanation
+Once a change is approved or denied, the project manager should update the change log to list the status of the change. 
+If a change is approved, the project management should be updated.
+
+===
+The project team has just started to code the redesigned accounting application when a key stakeholder asks for the application
+in order to include a very specific report to the company’s expenses. The stakeholder has submitted a change request to the project manager. 
+What would be the most important input to consider for this change request?   
+
+Explanation
+Work performance reports is an input to the process of performing integrated change control, 
+as it will show the overall status of the project. The other choices are not inputs to this process.
+===
+
+While working on an agile project, a customer has requested for the team to deploy the software as soon as the iteration is done. 
+The customer has already checked the completed part of the software and has accepted it. The team has refused to deploy the software. What work best explains the team’s refusal?   
+
+
+Explanation
+Iterations are part of a product that is inspected by the customers. An iteration may not be something that can be released to users since 
+it only represents a few weeks’ worth of work. A release usually includes multiple iterations that are releasable to the customers. 
+In this question the customer has already accepted the iteration, which means there are no errors in it.
+
+===
+While conducting procurement on a project, the project manager has received many different bids with a wide variance of estimated cost for the work. 
+What can the project manager use to best determine which vendor has given a realistic price?     
+
+
+Explanation
+An independent estimate is usually done by an outside entity to help give the project manager a more independent understanding 
+of what certain project work will cost. Inspections and audits are done after the seller is selected to ensure the work stays on contract. 
+Screening and weighing systems are done to help select sellers.
+===
+
+
