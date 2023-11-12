@@ -10,3 +10,20 @@ data analysis (alenative, root cause RCA, variance, trend)
 data representation (flowchar, fishbone, histograms)
 decision making (voting, multiciteria, autocratic)
 
+
+total float = slack
+free float = amount of time you can delay activity 
+            ES of next activity - EF of current activity- 1
+
+A: 1 3   B: 4 7   C: 8 13  E: 14 16
+
+                  D: 8 11  E: 12 14
+
+cp 16
+cp 14
+
+f
+b
+
+float of d
+free float of d
