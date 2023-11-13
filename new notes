@@ -22,8 +22,127 @@ A: 1 3   B: 4 7   C: 8 13  E: 14 16
 cp 16
 cp 14
 
-f
 b
 
 float of d
 free float of d
+
+COST
+
+DEFINITIVE estimates -5 +10
+BUDGET estimates -10 +25
+ROUGH ORDER of MAGNITUDE estimates -25 +75
+
+analogous estimating
+parametric estimating (statistical)
+bottom-up estimating
+
+Cost Baseline -  the cost of all the activities + contingency reserves
+
+Question 1:
+When developing the cost management plan, what tool or technique includes reviewing the different funding options that can be used to fund the project?   
+success alert
+Good job!
+Data analysis includes alternative analysis, which includes reviewing strategic funding options. Meetings and expert judgment do not examine different funding options. External funding is not a valid tool.
+
+Question 2:
+While working on a multinational project, the project manager has decided to represent the project budget in American dollars, even though the project will span nine different countries. This will make the budget uniform and easier for the stakeholders to understand. Where will the project manager document the units of measurement for the budget?   
+Good job!
+The cost management plan can establish the units of measurement which would include the currency format. All other choices are fake plans.
+
+Question 3:
+Early in the project’s planning phase, the project team determined that the cost to install the server would be $15,000. This is a high-level estimate, and the team thinks it may cost up to $10,000 more. What kind of estimate is this?   
+success alert
+Good job!
+A rough order of magnitude estimate has a range of -25% to +75%. A definitive estimate is generally within the range of -5% to +10%. Wide and plan estimates are not actual types of estimates.
+
+Question 4:
+Cost estimates for activities generally include the cost for labor, materials, equipment, services, and facilities. Which of the following statements is false regarding costs estimates?   
+Good job!
+Cost estimates for project activities should not include the operational costs of the product, since those costs cover operations and not a project. All other choices are true.
+
+Question 5:
+While working on a game design project, the project sponsor has asked the project manager that to ensure that his estimates are very precise. What estimating technique should the project manager use?  
+success alert
+Good job!
+Bottom-up estimating is when work packages are broken down and then rolled back up to form an overall cost estimate. This can lead to a very precise estimate, although it requires the most amount of work. Analogous estimating is a quick estimate that is based on previous projects. Three-point estimating uses the PERT formula and may or may not be accurate . Accuracy estimating is a made-up term.
+
+Question 6:
+The project manager and the project team determined that the budget for the project will be $60,000. That includes the cost for all the activities and all uncertainties that may have taken place during the project. The project cost baseline is $60,000. The sponsor has determined that if there is a need for additional funds, he will add an additional $5,000. The additional $5,000 represents what?   
+success alert
+Good job!
+Management reserves are added to the cost baseline in case the project exceeds its budget. It is usually added by the company’s management and is not under the manager’s control. Contingency reserves are part of the cost baseline. Risks and sponsor reserves are made-up terms.
+
+Question 7:
+The project manager has worked with an expert project team to estimate the project’s cost. The project manager is very confident that the project will end at that budget. Where should the project manager document his or her confidence level of the cost estimate?   
+success alert
+Good job!
+The basis of the estimates will have an indication of the confidence level of the final estimate. No other choice will document the confidence level of an estimate.
+
+Question 8:
+When determining the budget for a project, what tool should the project manager use to[KM1]  sum the cost of each work package to form the entire project budget? 
+success alert
+Good job!
+Cost aggregation is when you take the work packages and aggregate their individual cost to find the entire project budget. Data analysis does not contain any cost segregation, and neither does decision making. WBS aggregation is a made-up term.
+
+Question 9:
+The project manager has just been told by the project sponsor that, due to a current recession in the stock market, the company will not be able to allocate all of the funds that the project will need for completion. What should the project manager do with this funding limit? 
+success alert
+Good job!
+In the process of determining budget, the funding limit reconciliation tool is handled by rescheduling work. Implementing a change request may not help, since the organization will not have the money; closing the project will not resolve the funding problems; and seeking external funding may not be an option.
+
+Question 11:
+In the process of control costs, the project manager compares the project management plan with what other information? 
+success alert
+Good job!
+In almost all monitoring and controlling processes, the project manager compares the project plan with the work performance data to determine if the project is on track.
+
+n Earned Value Management (EVM): AC is a crucial part of the EVM formula, which includes:
+
+Earned Value (EV): The value of the work actually completed to date.
+Planned Value (PV): The estimated value of the work planned to be done by a specific time.
+Actual Cost (AC): The actual cost incurred for the completed work.
+Applications: Project managers use AC along with other EVM metrics to calculate cost variance (CV = EV - AC) and cost performance index (CPI = EV / AC), which are indicators of cost efficiency and budget management.
+
+Question 13:
+The budget manager has completed the earned value analysis for the project. He has concluded that the CPI of the project is .9. Which of the following statements best describes this project? 
+Good job!
+The cost performance index (CPI) is a measurement of the cost efficiency of the budgeted resources. The number being one represents the project being on budget. A number below one illustrates the project being over budget. At .9, the project is 10% over budget.
+
+Question 17:
+success alert
+Good job!
+TCPI calculates the performance that must be achieved to meet financial or schedule goals and determines the status of the remaining work with respect to the remaining funds. If the cumulative CPI falls below the baseline plan, all future work must be performed at the TCPI to achieve the planned BAC.
+
+
+
+Good job!
+Earned value analysis provides a means by which to determine cost and schedule variances, not to develop the project cost baseline.
+Question 18:
+Earned Value Management (EVM) would NOT be very beneficial in which situation?   
+
+
+Good job!
+Parametric estimating uses mathematical models based on historical records from other projects. It utilizes the statistical relationship that exists between a series of historical data and a particular delineated list of other variables.
+Question 19:
+While developing complex software, the project manager decided to bill the company by how many lines of codes it will take to write the software. What type of estimate best describes this scenario?   
+
+
+success alert
+Good job!
+Of the choices, the only answer that maybe correct would be that the project is being fast track, , since fast tracking generally results in a shorter schedule but does not affect costs. All other choices are 100% true, since the project is over budget but ahead of schedule.
+Question 20:
+Which of the following statements would be considered false about a project that has an SPI of 1.2 and the CPI of .7?
+
+
+
+
+
+
+
+
+
+QA
+
+cost benefit analysis
+COQ cost of quality
