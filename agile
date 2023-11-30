@@ -1,0 +1,61 @@
+Agile Principles:
+  Customer collaboration over contract negotiation.
+  Responding to change over following a plan.
+  Individuals and interactions over processes and tools.
+  Working software over comprehensive documentation.
+
+Scrum Framework:
+  Roles: Product Owner, Scrum Master, Development Team.
+  Artifacts: Product Backlog, Sprint Backlog, Increment.
+  Events: Sprint Planning, Daily Standup, Sprint Review, Sprint Retrospective.
+
+Kanban:
+  Visualize work on a Kanban board.
+  Limit work in progress (WIP).
+  Focus on flow and continuous improvement.
+
+
+Lean Principles:
+  Eliminate waste.
+  Build quality in.
+  Deliver fast.
+  Empower the team.
+  Optimize the whole.
+
+XP (Extreme Programming) Practices:
+  Pair programming.
+  Test-driven development (TDD).
+  Continuous integration.
+  Small, frequent releases.
+
+Agile Manifesto Values:
+  Individuals and interactions over processes and tools.
+  Working software over comprehensive documentation.
+  Customer collaboration over contract negotiation.
+  Responding to change over following a plan.
+
+Agile Manifesto Principles:
+  Satisfy the customer through early and continuous delivery of valuable software.
+  Welcome changing requirements, even late in development.
+  Deliver working software frequently, with a preference for shorter timescales.
+  Collaborate closely with customers and stakeholders throughout the project.
+  Build projects around motivated individuals and give them the resources and support they need.
+  Use face-to-face communication as much as possible.
+  Measure progress primarily through working software.
+  Maintain a sustainable pace of work for the team.
+  Strive for technical excellence and good design.
+  Keep things simple and focus on what's essential.
+
+Agile Roles and Responsibilities:
+  Product Owner: Represents the customer and prioritizes the backlog.
+  Scrum Master: Ensures the team follows Scrum principles and removes impediments.
+  Development Team: Cross-functional group responsible for delivering increments of work.
+
+Continuous Improvement:
+  Embrace retrospectives to reflect on and improve the process.
+  Encourage a culture of learning and adaptation.
+User Stories: A common format for expressing requirements in Agile, typically as "As a [user], I want [feature] so that [benefit]."
+
+Definition of Done (DoD): A checklist of criteria that must be met for a user story or task to be considered complete.
+
+Sprint: A time-boxed iteration in Scrum, typically 2-4 weeks, where a set of user stories is completed.
